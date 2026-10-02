@@ -5,12 +5,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/samsingh2008/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0229-majority-element-ii](https://github.com/samsingh2008/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/samsingh2008/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0229-majority-element-ii](https://github.com/samsingh2008/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/samsingh2008/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/samsingh2008/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/samsingh2008/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/samsingh2008/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
