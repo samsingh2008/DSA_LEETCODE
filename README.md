@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/samsingh2008/DSA_LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/samsingh2008/DSA_LEETCODE/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/samsingh2008/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
+| [1672-richest-customer-wealth](https://github.com/samsingh2008/DSA_LEETCODE/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/samsingh2008/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [1672-richest-customer-wealth](https://github.com/samsingh2008/DSA_LEETCODE/tree/master/1672-richest-customer-wealth) |
 ## Sorting
 |  |
 | ------- |
