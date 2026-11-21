@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/samsingh2008/DSA_LEETCODE/tree/master/0027-remove-element) |
 | [0073-set-matrix-zeroes](https://github.com/samsingh2008/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/samsingh2008/DSA_LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/samsingh2008/DSA_LEETCODE/tree/master/0152-maximum-product-subarray) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/samsingh2008/DSA_LEETCODE/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/samsingh2008/DSA_LEETCODE/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/samsingh2008/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 ## Union-Find
